@@ -1,4 +1,4 @@
-# Metroid-Prime-Trilogy-Fanmade-Remaster
+# Metroid Prime Trilogy Fanmade Remaster
 
 This does not include a copy of the game. Please refer to this guide on how to get your own copy (https://dolphin-emu.org/docs/guides/ripping-games/).
 
@@ -7,3 +7,43 @@ I, in no way, had any part in creating or contributing to these mods. You should
 I've tried reaching out to a few of the mod creators and most of them have since move on in life and are no longer reachable. 
 If you are one of the Mod creators and don't like me redistributing your work, just let me know and I'll have it removed.
 
+
+# Description
+I've always enjoyed the Metroid Prime series and hope to someday see Nintendo make an official remaster of the trilogy. They are amazing games with fantastic gameplay, even to this day. But to be a bit honest, they are starting to look and feel a bit outdated. Playing the gamecube version, your limited to the one analog. And playing the Wii version, unless your one of the very few people who have a wii remote and a sensor bar setup, is a pain in the butt to get working comfortably. So I setout to modernize this as much as I could. This is a mod compilation that I made and is super simple to get setup.
+
+This originally was just going to be for my personal use but I figured, why not share my results for everyone else to benefit as well. Between all the mods I've used, the game now has modernized controls, pretty much all textures upscaled, upscaled UI, Mouse and Keyboard support, Preconfigured Input Setups, and proper input icons! 
+
+
+# Mods Used
+
+* PrimeHack (https://github.com/SirMangler/PrimeHack-Updater/releases)
+* Metroid Prime Trilogy - HD Texture Pack (https://forums.dolphin-emu.org/Thread-metroid-prime-1-2-3-and-trilogy-hd-texture-pack)
+* Metroid Prime Trilogy - HD Interface Textures (https://forums.dolphin-emu.org/Thread-metroid-prime-trilogy-hd-interface-textures-v-1-7-may-01-2021)
+* Universal Dynamic Input (https://forums.dolphin-emu.org/Thread-universal-dynamic-input-1-6-11-03-a-custom-button-pack-for-over-100-games)
+* Custom Wii Load Image (made by me!)
+* Dark Dolphin Theme (https://github.com/AniLeo/Kuroi)
+
+
+# Download
+Zipped File Size - 10GB
+
+Unzipped File Size - 10GB
+
+Link : ()
+
+
+# Getting Started
+1.  Download the compilation from the link above.
+2.  Unzip the file.
+3.  Launch Dolphin.exe
+4.  Go to Options>Configurations>Paths and add your Metroid Prime Trilogy game path
+5.  Go to Options>Controller Settings>Metroid (Wii Remote) and choose your input device and configuration (I have two preset configurations that you can use, Keyboard and Controller)
+6.  Enjoy the game
+
+Optional steps If you want to launch directly into the game. Only do these after you completed the previous steps.
+
+7.  Launch Metroid Prime Trilogy Remastered.exe
+8.  Add your Metroid Prime Trilogy game path
+9.  Choose to use the application to directly launch into the game
+
+Now every time you launch the Metroid Prime Trilogy Remastered.exe it will skip the lanucher and take you right into the game.
