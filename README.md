@@ -64,3 +64,5 @@ These are my personal input mappings, so if you don't like it feel free to adjus
 
 # Final Notes
 After doing all this I didn't feel like taking any comparison screenshots so if any of you would like to do so, send them to me and I will include the shots and credit you for them.
+
+If you have any issues, please open an issue and either Me or someone else will look into it and try to fix it.
