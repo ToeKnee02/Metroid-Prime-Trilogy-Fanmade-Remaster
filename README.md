@@ -60,9 +60,11 @@ Controller Mapping
 Keyboard and Mouse Mapping
 ![Keyboard and Mouse Mapping](https://user-images.githubusercontent.com/92264755/148947662-c3032c50-46fb-4ffe-91d5-58e1329dbeba.jpg)
 
-These are my personal input mappings, so if you don't like it feel free to adjust these to your personal preferance
+These are my personal input mappings, so if you don't like it feel free to adjust these to your personal preferance. Because of the Universal Dynamic Input mod, it will still show the correct button icons even if you change it.
 
 # Final Notes
 After doing all this I didn't feel like taking any comparison screenshots so if any of you would like to do so, send them to me and I will include the shots and credit you for them.
 
 If you have any issues, please open an issue and either Me or someone else will look into it and try to fix it.
+
+If anyone knows of any other mods that could even better improve this, please let me know and I'll look into it.
