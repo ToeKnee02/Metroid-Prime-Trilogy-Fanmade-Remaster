@@ -25,9 +25,9 @@ This originally was just going to be for my personal use but I figured, why not 
 
 
 # Download
-Zipped File Size - 10GB
+Zipped File Size - 5.82GB
 
-Unzipped File Size - 10GB
+Unzipped File Size - 17.9GB
 
 Link : ()
 
