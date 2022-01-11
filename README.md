@@ -13,7 +13,7 @@ If you are one of the Mod creators and don't like me redistributing your work, j
 # Description
 I've always enjoyed the Metroid Prime series and hope to someday see Nintendo make an official remaster of the trilogy. They are amazing games with fantastic gameplay, even to this day. But to be a bit honest, they are starting to look and feel a bit outdated. Playing the gamecube version, your limited to the one analog. And playing the Wii version, unless your one of the very few people who have a wii remote and a sensor bar setup, is a pain in the butt to get working comfortably. So I setout to modernize this as much as I could.
 
-This originally was just going to be for my personal use but I figured, why not share my results for everyone else to benefit as well. I've made this as easy as I possible could to get setup. Between all the mods I've used, the game now has modernized controls, pretty much all textures upscaled, upscaled UI, Mouse and Keyboard support, Preconfigured Input Setups, and proper input icons! 
+This originally was just going to be for my personal use but I figured, why not share my results for everyone else to benefit as well. I've made this as easy as I possible could to get setup. Between all the mods I've used, the game now has modernized controls, pretty much all textures upscaled, upscaled UI, Mouse and Keyboard support, Preconfigured Input Setups, and proper input icons! The only thing you need to provide is a copy of the game.
 
 
 # Mods Used
