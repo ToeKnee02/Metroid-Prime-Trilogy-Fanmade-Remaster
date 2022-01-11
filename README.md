@@ -47,3 +47,15 @@ Optional steps If you want to launch directly into the game. Only do these after
 9.  Choose to use the application to directly launch into the game
 
 Now every time you launch the Metroid Prime Trilogy Remastered.exe it will skip the lanucher and take you right into the game.
+
+
+
+# Input Mapping
+
+Controller Mapping
+![Controller Mappings](https://user-images.githubusercontent.com/92264755/148947648-b6bcb23b-d001-4ac1-af6e-281a5a67fa81.png)
+
+Keyboard and Mouse Mapping
+![Keyboard and Mouse Mapping](https://user-images.githubusercontent.com/92264755/148947662-c3032c50-46fb-4ffe-91d5-58e1329dbeba.jpg)
+
+These are my personal input mappings, so if you don't like it feel free to adjust these to your personal preferance
