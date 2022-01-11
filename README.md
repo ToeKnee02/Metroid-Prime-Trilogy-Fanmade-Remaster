@@ -61,3 +61,6 @@ Keyboard and Mouse Mapping
 ![Keyboard and Mouse Mapping](https://user-images.githubusercontent.com/92264755/148947662-c3032c50-46fb-4ffe-91d5-58e1329dbeba.jpg)
 
 These are my personal input mappings, so if you don't like it feel free to adjust these to your personal preferance
+
+# Final Notes
+After doing all this I didn't feel like taking any comparison screenshots so if any of you would like to do so, send them to me and I will include the shots and credit you for them.
