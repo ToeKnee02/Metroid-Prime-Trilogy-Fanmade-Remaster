@@ -39,7 +39,7 @@ Link : ()
 2.  Unzip the file.
 3.  Launch Dolphin.exe
 4.  Go to Options>Configurations>Paths and add your Metroid Prime Trilogy game path
-5.  Go to Options>Controller Settings>Metroid (Wii Remote) and choose your input device and configuration (I have three preset configurations that you can use, or you can make your own).
+5.  Go to Options>Controller Settings>Metroid (Wii Remote) and choose your input device and configuration (I have two preset configurations that you can use, or you can make your own).
 6.  Enjoy the game
 
 Optional steps If you want to launch directly into the game. Only do these after you completed the previous steps.
