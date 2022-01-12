@@ -56,7 +56,7 @@ I had set everything to what I believe would be "medium" settings, so depending 
 # Input Mapping
 
 Controller Mapping
-![Controller Mappings](https://user-images.githubusercontent.com/92264755/148947648-b6bcb23b-d001-4ac1-af6e-281a5a67fa81.png)
+![Controller Mapping](https://user-images.githubusercontent.com/92264755/149041127-885c7375-360b-4ebc-9ae1-0c6f55d15391.png)
 
 Keyboard and Mouse Mapping
 ![Keyboard and Mouse Mapping](https://user-images.githubusercontent.com/92264755/148947662-c3032c50-46fb-4ffe-91d5-58e1329dbeba.jpg)
