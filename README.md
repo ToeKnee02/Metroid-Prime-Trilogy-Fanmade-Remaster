@@ -41,15 +41,6 @@ Google Drive : (https://drive.google.com/file/d/1-kc6YbZcmpiIwbeqE-01sqKs_dOhHcV
 
 (https://archive.org/details/metroid-prime-trilogy-fanmade-remaster)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-* Lite Version - Removed HD Textures except for HD Interface
-
-Zipped File Size - 131MB
-
-Unzipped File Size - 1.09GB
-
-Google Drive : (https://drive.google.com/file/d/1KkKTw7vn_3GAtEEBi5tOk3Jv8SiArpLG/view?usp=sharing)
 
 
 # Getting Started
