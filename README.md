@@ -29,6 +29,7 @@ This originally was just going to be for my personal use but I figured, why not 
 # Download
 
 * Full Version
+
 Zipped File Size - 5.82GB
 
 Unzipped File Size - 17.9GB
@@ -36,6 +37,7 @@ Unzipped File Size - 17.9GB
 Google Drive : (https://drive.google.com/file/d/1sY82gQYOUD4wbqASfMkJbVcz3aO8fq0D/view?usp=sharing)
 
 * Lite Version - Removed HD Textures except for HD Interface
+
 Zipped File Size - 131MB
 
 Unzipped File Size - 1.09GB
