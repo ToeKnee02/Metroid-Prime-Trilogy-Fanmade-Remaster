@@ -18,7 +18,7 @@ This originally was just going to be for my personal use but I figured, why not 
 
 # Mods Used
 
-* PrimeHack (https://github.com/SirMangler/PrimeHack-Updater/releases)
+* PrimeHack (https://github.com/shiiion/dolphin)
 * Metroid Prime Trilogy - HD Texture Pack (https://forums.dolphin-emu.org/Thread-metroid-prime-1-2-3-and-trilogy-hd-texture-pack)
 * Metroid Prime Trilogy - HD Interface Textures (https://forums.dolphin-emu.org/Thread-metroid-prime-trilogy-hd-interface-textures-v-1-7-may-01-2021)
 * Universal Dynamic Input (https://forums.dolphin-emu.org/Thread-universal-dynamic-input-1-6-11-03-a-custom-button-pack-for-over-100-games)
